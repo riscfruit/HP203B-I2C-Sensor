@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HP203B") (type "KiCad") (uri "${KIPRJMOD}/HP203B.pretty") (options "") (descr ""))
+)
