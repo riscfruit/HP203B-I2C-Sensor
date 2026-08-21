@@ -2573,7 +2573,7 @@
 				)
 			)
 		)
-		(property "Value" "4.1u"
+		(property "Value" "4.7u"
 			(at 144.78 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
