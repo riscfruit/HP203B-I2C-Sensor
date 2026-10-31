@@ -543,7 +543,7 @@
       "netlist": "",
       "plot": "gerber/",
       "specctra_dsn": "",
-      "vrml": ""
+      "vrml": "../../../hb203b-sensor-card.wrl"
     },
     "page_layout_descr_file": ""
   },
